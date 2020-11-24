@@ -8,7 +8,6 @@ console.log(arbol,nombre,apellido,edad)
     
     edad = true
     edad="Casa"
-
 console.log(arbol,nombre,apellido,edad)
 
     const accesorio = "Laptop"
