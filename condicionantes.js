@@ -140,7 +140,7 @@ function myFunction(myArgument1, myArgument2){
 console.log(myFunction(5,8))
 
 function checkNumber(myNumber){
-    var myNumber
+    //var myNumber
     if (myNumber == 42) {
         console.log("correct")
     }
@@ -149,5 +149,5 @@ function checkNumber(myNumber){
     }
 }
 
-console.log(checkNumber(3))
+checkNumber(3)
 
